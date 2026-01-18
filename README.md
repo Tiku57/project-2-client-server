@@ -1,7 +1,7 @@
 # 🎨 Real-Time Collaborative Infinite Whiteboard (Miro Clone)
-
-![Project Preview](path/to/your/screenshot.png) 
-*(Add one of your screenshots here)*
+```
+This project was developed during the Winter Internship '25 at console.success.
+```
 
 ## 🚀 Overview
 This project is an advanced **Real-Time Collaborative Whiteboard** built as part of the Frontend Development Advanced Track. It mimics core functionalities of tools like Miro or Excalidraw, allowing multiple users to draw, write, and collaborate on an infinite canvas with zero latency.
