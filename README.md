@@ -38,7 +38,6 @@ The core engineering challenges addressed in this project include **Coordinate S
 
 This project uses a monorepo-style structure with separate `client` and `server` directories.
 
-### 1. Clone the Repository
 ```bash
 git clone [https://github.com/your-username/miro-clone.git](https://github.com/your-username/miro-clone.git)
 cd miro-clone
