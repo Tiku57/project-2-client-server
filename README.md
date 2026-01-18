@@ -42,3 +42,10 @@ This project uses a monorepo-style structure with separate `client` and `server`
 ```bash
 git clone [https://github.com/your-username/miro-clone.git](https://github.com/your-username/miro-clone.git)
 cd miro-clone
+cd server
+npm install
+node index.js
+cd client
+npm install
+npm start
+```
