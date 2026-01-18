@@ -48,3 +48,11 @@ cd client
 npm install
 npm start
 ```
+---
+
+## 👤 Author
+
+**Aaditya Sattawan** 
+
+---
+*Built for the Console.Success Advanced Frontend Engineering Challenge.*
